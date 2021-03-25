@@ -1,6 +1,6 @@
 # Web-Design-Challenge
 
-https://niyang1.github.io/Web-Design-Challenge/index_landing.html
+https://niyang1.github.io/Web-Design-Challenge/index.html
 
 The website consists of 7 pages total, including:
 
